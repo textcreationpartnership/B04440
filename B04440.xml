@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the advancement of trade, upon such principles as must necessarily enforce it.</title>
+            <author>Murray, Robert, 1635-1725?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04440</idno>
+            <idno type="STC">Wing M3119</idno>
+            <idno type="STC">ESTC R220597</idno>
+            <idno type="EEBO-CITATION">49520946</idno>
+            <idno type="OCLC">ocm 49520946</idno>
+            <idno type="VID">174184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174184)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2673:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the advancement of trade, upon such principles as must necessarily enforce it.</title>
+                  <author>Murray, Robert, 1635-1725?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Edwin at the Three Roses in Lud-gate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"To the Reader" signed: Robert Murray, &amp; Comp.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Banks and banking --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:174184:1"/>
+            <pb facs="tcp:174184:1" rendition="simple:additions"/>
+            <p>A PROPOSAL FOR THE ADVANCEMENT OF TRADE, Upon ſuch PRINCIPLES As muſt Neceſſarily Enforce it.</p>
+         </div>
+         <div type="license_to_print">
+            <p>LICENSED</p>
+            <closer>
+               <signed>Roger L'Eſtrange.</signed>
+               <dateline>
+                  <date>April. 13th. 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>To the READER.</head>
+            <p>IT being moſt manifeſt, that where the Inhabitants of any Land do induſtriouſly apply themſelves to <hi>Traffick</hi> and <hi>Commerce,</hi> they en<g ref="char:EOLhyphen"/>joy not only the Conveniencies of Life, but abound in all manner of <hi>Plenty;</hi> It would be an enterprize highly Laudable in Per<g ref="char:EOLhyphen"/>ſons, of the moſt <hi>eminent</hi> Abilities, to find out ſuch means, as may moſt augment our <hi>Trade,</hi> as well within the Realm, as with foreign Parts; As to the former we have endeavour'd its advantage by diſcove<g ref="char:EOLhyphen"/>ring briefly in the following Lines, ſuch a Way as muſt neceſſarily pro<g ref="char:EOLhyphen"/>duce it: And we doubt not, but will alſo by the conſequence of it, advantage the latter, in removing all thoſe <hi>grand impediments,</hi> which have hitherto obſtructed the Current of our <hi>Trade.</hi> Vale.</p>
+            <closer>
+               <signed>
+                  <hi>Robert Murray</hi> &amp; Comp'</signed>
+            </closer>
+            <pb facs="tcp:174184:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174184:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb n="2" facs="tcp:174184:3"/>
+            <p>THE <hi>Money</hi> that is Current within his <hi>Majeſties Dominions,</hi> conſiſting onely of Foreign <hi>Bullion,</hi> we cannot abſolutely at all times ſecure to our ſelves a ſufficient quantity thereof to ſupply our Occaſions; ſo that (it being the Common Meaſure wherewith all <hi>Trade</hi> is Driven) men are enforced to ſtand ſtill in their <hi>Occupations,</hi> to their great Impoveriſhment: Now if a means can be found out to ſupply this defect, <hi>Trade</hi> will be enlivened, not<g ref="char:EOLhyphen"/>withſtanding any accident that may hinder the Importation, or oc<g ref="char:EOLhyphen"/>caſion the Exportation of <hi>Bullion,</hi> or any other way obſtruct our <hi>Money</hi> in its due <hi>Circulation,</hi> which is the Cauſe of the many lamen<g ref="char:EOLhyphen"/>table Calamities and ruinous Effects that are found amongſt us.</p>
+            <p>
+               <hi>Money</hi> being no more than a <hi>depoſite</hi> given for ſuch Commodities as men part withal; if in lieu thereof, a <hi>Credit</hi> be raiſed upon a ſub<g ref="char:EOLhyphen"/>ſtantial <hi>Fond,</hi> it will in all reſpects anſwer the uſe of <hi>Money.</hi> And ſuch is the <hi>Credit</hi> which we propoſe to iſſue forth, which all men may eaſily obtain by depoſiting their <hi>DEAD STOCK,</hi> without the leaſt diſrepute or inconveniency to themſelves, upon the reaſonable terms of <hi>ſix per Cent. per Annum;</hi> to which purpoſe <hi>Magazines</hi> are prepared at <hi>Devonſhire</hi> houſe, without <hi>Biſhops-Gate, London,</hi> for the reception of any <hi>Goods</hi> for which credit ſhall be given for two thirds, or three fourths of their value, according to the quality thereof: and becauſe it is intended to take <hi>depoſites</hi> no longer than for <hi>ſix Months,</hi> all perſons that ſhall accept of the ſaid <hi>Credit,</hi> may at the expiration of <hi>ſeven Months,</hi> repair for payment to the place aforeſaid, and at any time view the <hi>Fond</hi> upon which the <hi>Credit</hi> is raiſed; and in caſe it ſo happen that the <hi>Goods</hi> depoſited be not redeemed by <hi>Money, Credit,</hi> or any other equivalent <hi>depoſite,</hi> at or before the time contracted for, the ſame ſhall be ſold to the beſt advantage of the intereſſed, and the over-plus made good on de<g ref="char:EOLhyphen"/>mand, and in the mean while the <hi>Credit</hi> being Current, will be as ſerviceable to all intents and purpoſes as <hi>Money</hi> it ſelf; for ſeeing all Neceſſaries for <hi>Life</hi> and <hi>Trade</hi> are obtainable from one <hi>Occupa<g ref="char:EOLhyphen"/>tion</hi> or other (to compleat the body of <hi>Commerce</hi> in all parts), due Care is taken by engaging a ſufficient Number of all <hi>Trades,</hi> who will receive the ſaid <hi>Credit;</hi> entring their <hi>Names, Trades,</hi> and <hi>Habi<g ref="char:EOLhyphen"/>tations,</hi> from time to time as they offer themſelves, who are no longer <hi>obliged</hi> than they ſhall find it ſecure and profitable; of which they may be aſſured, in as much as all perſons may upon this <hi>Credit</hi> iſſue forth their own <hi>Commodities,</hi> and with the ſame immediately procure to themſelves what their <hi>Occaſions</hi> require.</p>
+            <p>And if any Perſon ſhall think fit to make uſe of the ſaid Ma<g ref="char:EOLhyphen"/>gazine, for the lodging and diſpoſing of any Goods, by way of Commiſſion only, they ſhall be punctually ſerved therein, and pro<g ref="char:EOLhyphen"/>bably
+<pb n="3" facs="tcp:174184:3"/>
+will find better opportunity for ſelling their Goods and ſer<g ref="char:EOLhyphen"/>ving their Occaſions than hath hitherto been found.</p>
+            <p>
+               <hi>Men</hi> are alſo freed from thoſe great <hi>Damages</hi> that often attends ſuch as are neceſſitated to Pawn <hi>Goods</hi> of conſiderable value for ſmall Sums, until the ſame can be ſold, and do intruſt the <hi>Receivers</hi> with the ſale thereof at reaſonable Rates; which notwithſtanding is often retarded on purpoſe to gain to themſelves an <hi>Extravagant <g ref="char:V">Ʋ</g>ſury,</hi> which <hi>Extortion</hi> will here be prevented.</p>
+            <p>To the rendring this <hi>Credit Current,</hi> no more is required than what is already practiſed in <hi>Banks</hi> here and <hi>abroad,</hi> where <hi>Men</hi> de<g ref="char:EOLhyphen"/>poſite <hi>Money,</hi> and obtain the <hi>Bank-Credit,</hi> which generally paſſeth in Receipts and Payments without the real iſſuing of <hi>Money,</hi> the <hi>Money</hi> remaining as a Pawn or Ground of <hi>Security</hi> in the <hi>Caſh Cheſt,</hi> or elſe is imployed by the <hi>Banker</hi> to his own benefit, the Paper <hi>Credit</hi> being chiefly Current amongſt <hi>Traders;</hi> and if the <hi>Banker</hi> miſcarry in his <hi>Adventures (and the Money being upon Intereſt, must not lie dead with<g ref="char:EOLhyphen"/>out his inevitable ruine)</hi> the <hi>Fond</hi> that ſhould ſecure the <hi>Credit</hi> is gone; and whereas he takes in <hi>Moneys</hi> we receive <hi>Wares</hi> and <hi>Mer<g ref="char:EOLhyphen"/>chandize,</hi> which are alwayes to be found in the <hi>Magazine,</hi> and not ſo liable to be <hi>Imbezel'd, Rob'd,</hi> or <hi>Seiz'd:</hi> Wherefore is in all re<g ref="char:EOLhyphen"/>ſpects a better Security than a <hi>Money-Bank.</hi>
+            </p>
+            <p>This Enterprize is of ſo large an extent, that it ſeems a Compli<g ref="char:EOLhyphen"/>cation of divers things already practiſed in the <hi>World;</hi> tho no place afford us an <hi>exact M<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> of it, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a <hi>Bank</hi> and <hi>Lum<g ref="char:EOLhyphen"/>bard united;</hi> but ſo differenced from both, that in effect it is nei<g ref="char:EOLhyphen"/>ther; for the <hi>foundation</hi> of <hi>Credit</hi> in <hi>Bank</hi> is <hi>Money,</hi> this <hi>Goods</hi> and <hi>Merchandize:</hi> and in <hi>Lumbards</hi> Goods are received, and <hi>Money</hi> de<g ref="char:EOLhyphen"/>delivered out, here <hi>Credit;</hi> yet in ſome reſpects 'tis like <hi>both:</hi> for after the ſame manner, as in <hi>Lumbards,</hi> all Goods are received in <hi>Publique Repoſitories,</hi> and Conformably to <hi>foreign Banks Credit</hi> is iſſu<g ref="char:EOLhyphen"/>ed out.</p>
+            <p>It frequently happens that ſeveral <hi>Goods</hi> are onely proper to be ſold at certain <hi>times</hi> and <hi>ſeaſons,</hi> and the Owner wants <hi>Money</hi> or <hi>Credit</hi> to proſecute his <hi>Trade,</hi> who by the method propoſed may be accommodated: as for Example,</p>
+            <p>A <hi>Clothier</hi> having a parcel of <hi>Clothes,</hi> which at preſent he can<g ref="char:EOLhyphen"/>not vend, muſt therefore attend the opportunity of a better <hi>Mar<g ref="char:EOLhyphen"/>ket:</hi> in the interim to carry on his <hi>Trade</hi> in the <hi>Country,</hi> he leaves them, as aforeſaid, with order to diſpoſe thereof at a price limited with the allowance of the <hi>cuſtomary Factorage,</hi> and thereupon forth<g ref="char:EOLhyphen"/>with receives the ſaid <hi>Credit,</hi> which ſupplies him with all manner of <hi>Neceſſaries,</hi> as from the <hi>Salter, Oyl-man, Spaniſh Merchant,</hi> &amp;c. who
+<pb n="4" facs="tcp:174184:4"/>
+again furniſh themſelves, as their reſpective Occaſions require, by vertue of the ſame <hi>Credit;</hi> the like may be done by the <hi>Norwich Man, thoſe</hi> who <hi>deal</hi> in <hi>Tyn,</hi> and <hi>Lead, Myners,</hi> and all other <hi>Profeſ<g ref="char:EOLhyphen"/>ſions;</hi> ſo that this will enforce a <hi>Trade,</hi> operating alike on both Parties, as well the <hi>Seller</hi> as the <hi>Buyer:</hi> and beget mutual, quick, and frequent <hi>returns;</hi> and though upon every particular Sale, the Gain may be ſmall, the <hi>Profit</hi> at the years end will be found to be great, making thereby a ſmall <hi>Stock,</hi> equally beneficial to a great <hi>one,</hi> with ſlow <hi>returns;</hi> and ſo conſequently <hi>Money</hi> will be leſs wanting, by reaſon the Occaſions for it are leſſen'd; but if any Perſon ſhall be <hi>neceſſitated</hi> for <hi>Money,</hi> 'tis not to be doubted but <hi>Monied Men</hi> will be glad to iſſue forth their <hi>Caſh</hi> upon this <hi>Credit</hi> left with them; be<g ref="char:EOLhyphen"/>cauſe all Men may have recourſe to the place aforeſaid, and there be ſatisfied with the <hi>real Security</hi> upon which every <hi>Note</hi> is ground<g ref="char:EOLhyphen"/>ed that is iſſued out; due care being alſo taken to prevent Frauds by Counterfeiting the ſame.</p>
+            <p>And for the better ſatisfaction of ſuch as may any wayes be con<g ref="char:EOLhyphen"/>cerned with the ſaid <hi>R. Murray</hi> at the Comutation Office, ſome Ci<g ref="char:EOLhyphen"/>tizens have engaged themſelves with him to be reſponſible for what<g ref="char:EOLhyphen"/>ſoever Goods as ſhall be there depoſited, and Credit iſſued out thereupon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Edwin</hi> at the three <hi>Roſes</hi> in <hi>Lud<g ref="char:EOLhyphen"/>gate-ſtreet,</hi> 1676.</p>
+            <pb facs="tcp:174184:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
